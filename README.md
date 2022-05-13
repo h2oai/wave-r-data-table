@@ -1,5 +1,5 @@
 # wave-r-data-table - R data.table tutorial in [wave](https://github.com/h2oai/wave)
-This wave application is a R data.table tutorial and interactive learning enviroment developed using the wave library for R.
+This wave application is a R data.table tutorial and interactive learning environment developed using the wave library for R.
 
 
 ## App Description: 
